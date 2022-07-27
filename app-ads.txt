@@ -2,6 +2,9 @@
 facebook.com, 1686507471747831, RESELLER, c3e20eee3f780d68
 facebook.com, 1662142247489578, RESELLER, c3e20eee3f780d68
 
+#Google Admob
+google.com, pub-7601571831605173, DIRECT, f08c47fec0942fa0
+
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 appnexus.com, 7353, RESELLER, f5ab79cb980f11d1
